@@ -64,3 +64,149 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+hr {
+	border-top: 1px solid black;
+	width: 877px;
+}
+
+.row_0 .column_0 {
+	max-width: 850px;
+	margin: auto;
+}
+
+.row_1 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 15px;
+}
+
+.row_1 .column_1 {
+	text-align-last: justify;
+	margin: auto;
+}
+
+.row_1 .column_1 a {
+	color: gray;
+	text-decoration: none;
+}
+
+.row_1 .column_1 img {
+	height: 25px;
+	width: 155px;
+	vertical-align: -5px;
+}
+
+.row_2 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.row_2 .column_1 {
+	display: inline-block;
+	text-align-last: center;
+	vertical-align: 42px;
+	margin-left: 80px;
+}
+
+.row_2 .column_1 h1 {
+	font-size: 74px;
+	margin-bottom: 0px;
+}
+
+.row_2 .column_1 button {
+	background: white;
+    width: 144px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.row_2 .column_2 {
+	display: inline-block;
+	text-align-last: center;
+}
+
+.row_2 .column_2 img {
+	height: 325px;
+	width: 325px;
+}
+
+.row_3 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.row_3 .column_1 {
+	display: inline-block;
+	text-align-last: left;
+	width: 410px;
+}
+
+.row_3 .column_2 {
+	display: inline-block;
+	text-align-last: left;
+	width: 410px;
+}
+
+.row_4 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.row_5 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.row_5 .column_1 {
+	display: inline-block;
+	text-align-last: left;
+	width: 274px;
+}
+
+.row_5 .column_2 {
+	display: inline-block;
+	text-align-last: left;
+	width: 274px;
+}
+
+.row_5 .column_3 {
+	display: inline-block;
+	text-align-last: left;
+	width: 274px;
+}
+
+.row_6 {
+	display: inline-block;
+	text-align-last: justify;
+	width: 877px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.row_6 .column_1 {
+	display: inline-block;
+	text-align-last: left;
+	width: 223px;
+}
+
+.row_7 {
+	display: inline-block;
+	text-align-last: center;
+	width: 877px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
